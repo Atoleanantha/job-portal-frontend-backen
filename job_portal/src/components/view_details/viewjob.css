@@ -1,0 +1,94 @@
+
+#wrapper{
+    /* display: flex; */
+    /* flex-direction: column; */
+}
+.Container{
+    /* height: 100vh;
+    width: 100vw; */
+    /* position: relative; */
+}/*
+.pay1{
+
+    color:rgb(7, 113, 53);
+    font-weight: bold;
+    background-color: rgb(194, 218, 198);
+    width:fit-content;
+    margin-left: 4%;
+    border-radius: 10%;
+}
+h4{
+    margin-left: 1%;;
+}
+.headerhide{
+    color: white;
+}
+.headerhide a{
+    text-decoration: none;
+    color: white;
+}
+h4:before {
+    
+    margin-right: 10px;
+  }
+  
+.appb{
+    margin-left: 2%;
+}
+.headblock{
+    width: 100%;
+    background: white;
+    background-image: url('./bacground.jpg');
+    background-size: cover;
+    
+    background-position: center;
+    
+
+    
+}
+
+.t{
+    color: rgb(103, 103, 103);
+    background-color: rgb(235, 233, 233);
+    border-radius: 10%;
+    width: fit-content;
+    margin-left: 4%;
+}
+hr{
+    width: 80%;
+    background-color: #333;
+    position: relative;
+    animation:floatEffect 2s infinite;
+}
+@keyframes floatEffect{
+    0%,100%{
+        transform: translateY(0);
+    }
+    50%{
+        transform: translateY(-8px);
+    }
+}
+.image-container{
+    width: auto;
+    text-align: center;
+    display: flex;
+}
+.image-container img{
+    height: 25px;
+    width: 25px;
+    position: relative;
+    align-items: baseline;
+    margin-left: 1%;
+    display: block;
+    
+}
+.contentblock{
+    margin-top: 30px;
+    margin-left: 1%;
+}
+.perk1,.key1,.des1{
+    margin-left: 4%;
+}
+.headerh{
+    font-size: 40px;
+} */

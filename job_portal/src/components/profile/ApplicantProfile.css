@@ -1,0 +1,38 @@
+.profile-container {
+    max-width: 1200px;
+     /* Set a maximum width for the container */
+    height: 20em;
+    margin: 0 auto; /* Center the container horizontally */
+  }
+  
+  /* Adjust the row to take up the full width */
+  .profile-row {
+    margin: 20px 0; /* Add margin for spacing */
+  }
+  
+  /* Adjust the card styles */
+  .profile-card {
+    background-color: #fff;
+    border: 1px solid #ddd;
+    border-radius: 20px;
+    padding: 20px;
+    width: 100%; /* Make the card take up the full width of the container */
+  }
+  
+  /* Center card contents */
+  .card-content {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    text-align: center;
+  }
+  
+  /* Adjust spacing for buttons */
+  .card-buttons {
+    margin-top: 20px;
+  }
+  
+  /* Customize button styles */
+  .card-buttons .btn {
+    width: 120px;
+  }
